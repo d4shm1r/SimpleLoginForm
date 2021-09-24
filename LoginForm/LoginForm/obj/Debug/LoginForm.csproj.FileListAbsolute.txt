@@ -1,0 +1,9 @@
+C:\Users\Dashmir\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Dashmir\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Dashmir\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Dashmir\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\Dashmir\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Dashmir\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Dashmir\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Dashmir\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Dashmir\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
